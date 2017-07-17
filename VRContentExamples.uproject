@@ -1,0 +1,19 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{DA7170C1-4E9B-B718-62E8-3AB75F1AFD2A}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "VRContentExamples",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "WebBrowserWidget",
+			"Enabled": true
+		}
+	]
+}
